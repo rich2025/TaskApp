@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "PolkaDotGame"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"*.tpp": "cpp"
+		},
+		"terminal.integrated.shell.windows": "cmd.exe"
+	}
+}
